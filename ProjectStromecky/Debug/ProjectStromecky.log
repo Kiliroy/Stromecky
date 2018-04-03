@@ -1,0 +1,8 @@
+﻿  Source2.c
+c:\users\jakub\source\repos\projectstromecky\projectstromecky\source2.c(32): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\jakub\source\repos\projectstromecky\projectstromecky\source2.c(32): warning C4047: '=': 'uzel *' differs in levels of indirection from 'int'
+c:\users\jakub\source\repos\projectstromecky\projectstromecky\source2.c(35): warning C4047: '=': 'uzel *' differs in levels of indirection from 'int'
+c:\users\jakub\source\repos\projectstromecky\projectstromecky\source2.c(70): warning C4047: '=': 'uzel *' differs in levels of indirection from 'int'
+c:\users\jakub\source\repos\projectstromecky\projectstromecky\source2.c(69): warning C4101: 'c': unreferenced local variable
+  ProjectStromecky.vcxproj -> C:\Users\Jakub\source\repos\ProjectStromecky\Debug\ProjectStromecky.exe
+  ProjectStromecky.vcxproj -> C:\Users\Jakub\source\repos\ProjectStromecky\Debug\ProjectStromecky.pdb (Partial PDB)
